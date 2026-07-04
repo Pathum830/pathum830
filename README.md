@@ -117,15 +117,13 @@ Firebase • Supabase • Vercel • Netlify
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pathum830&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pathum830&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum830&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathum830&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
