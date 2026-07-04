@@ -1,44 +1,37 @@
-<h1 align="center">Hi 👋, I'm Pathum Siriwardhana</h1>
+```markdown
+<div align="center">
 
-<h3 align="center">
-NDT Information Technology Student | Full Stack Developer | AI Enthusiast 🇱🇰
-</h3>
+# Hi there 👋 I'm **Pathum Siriwardhana**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pathum830&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+### 💻 Full Stack Developer • NDT IT Student • AI Enthusiast 🇱🇰
 
-<p align="center">
+<p>
   <a href="https://portfolio-taupe-two-33.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
   </a>
-
-  <a href="https://github.com/Pathum830">
-    <img src="https://img.shields.io/github/followers/Pathum830?label=Followers&style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/Pathum830?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Pathum830?affiliations=OWNER&style=for-the-badge">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pathum830&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Flutter+Developer;AI+Enthusiast;Always+Learning+Something+New+🚀" />
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 NDT Information Technology Student at the **Institute of Technology, University of Moratuwa (ITUM)**
+🎓 **NDT Information Technology Student**  
+**Institute of Technology, University of Moratuwa (ITUM)**
 
-💻 Passionate Full Stack Developer
+💻 Passionate about developing modern web and mobile applications.
 
-🤖 Interested in Artificial Intelligence, Software Engineering, Mobile Development and Embedded Systems
-
-🌱 Currently Learning
+🌱 Currently learning
 
 - Spring Boot
 - Flutter
-- Go (Gin Framework)
+- Go
 - Docker
-- AI & Agentic AI
+- Artificial Intelligence
 
 💬 Ask me about
 
@@ -48,140 +41,137 @@ NDT Information Technology Student | Full Stack Developer | AI Enthusiast 🇱�
 - SQL
 - Git & GitHub
 
-📫 Email
+⚡ Fun Fact
 
-**pathumsiriwardhana@86email.com**
-
-🌐 Portfolio
-
-**https://portfolio-taupe-two-33.vercel.app/**
+> *"I believe every project is an opportunity to learn something new."*
 
 ---
 
-# 🚀 Featured Projects
+# 🌐 Portfolio
 
-## 🏨 LankaGuide AI
-
-AI-powered Rural Tourism Marketplace with Intelligent Safari Optimization.
-
-**Tech Stack**
-
-- Flutter
-- Python
-- Supabase
-- Mapbox
-- Gemini AI
+### 🔗 **https://portfolio-taupe-two-33.vercel.app/**
 
 ---
 
-## 📋 ERP Project Management System
+# 💻 Languages
 
-Project Management System built using
-
-- Go
-- Vue.js
-- PostgreSQL
-- Docker
-
----
-
-## 🌐 Personal Portfolio
-
-Personal Portfolio Website built using
-
-- React
-- CSS
-- Vercel
+| Logo | Language |
+|------|----------|
+| <img src="https://skillicons.dev/icons?i=java" width="35"/> | Java |
+| <img src="https://skillicons.dev/icons?i=python" width="35"/> | Python |
+| <img src="https://skillicons.dev/icons?i=javascript" width="35"/> | JavaScript |
+| <img src="https://skillicons.dev/icons?i=go" width="35"/> | Go |
+| <img src="https://skillicons.dev/icons?i=html" width="35"/> | HTML5 |
+| <img src="https://skillicons.dev/icons?i=css" width="35"/> | CSS3 |
+| <img src="https://skillicons.dev/icons?i=mysql" width="35"/> | SQL |
 
 ---
 
-## 📱 Smart Home Automation
+# 🚀 Frameworks & Libraries
 
-Embedded System using
-
-- ATmega32
-- Embedded C
-- Proteus
+| Logo | Framework |
+|------|-----------|
+| <img src="https://skillicons.dev/icons?i=spring" width="35"/> | Spring Boot |
+| <img src="https://skillicons.dev/icons?i=react" width="35"/> | React |
+| <img src="https://skillicons.dev/icons?i=vue" width="35"/> | Vue.js |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="35"/> | Node.js |
+| <img src="https://skillicons.dev/icons?i=flutter" width="35"/> | Flutter |
+| <img src="https://skillicons.dev/icons?i=bootstrap" width="35"/> | Bootstrap |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="35"/> | Tailwind CSS |
 
 ---
 
-# 💻 Tech Stack
+# 🗄️ Databases
 
-## Languages
+| Logo | Database |
+|------|----------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="35"/> | MySQL |
+| <img src="https://skillicons.dev/icons?i=postgres" width="35"/> | PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="35"/> | MongoDB |
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,go,html,css,mysql,postgresql" />
+---
+
+# 🛠️ Tools
+
+| Logo | Tool |
+|------|------|
+| <img src="https://skillicons.dev/icons?i=git" width="35"/> | Git |
+| <img src="https://skillicons.dev/icons?i=github" width="35"/> | GitHub |
+| <img src="https://skillicons.dev/icons?i=docker" width="35"/> | Docker |
+| <img src="https://skillicons.dev/icons?i=vscode" width="35"/> | VS Code |
+| <img src="https://skillicons.dev/icons?i=idea" width="35"/> | IntelliJ IDEA |
+| <img src="https://skillicons.dev/icons?i=postman" width="35"/> | Postman |
+| <img src="https://skillicons.dev/icons?i=figma" width="35"/> | Figma |
+| <img src="https://skillicons.dev/icons?i=photoshop" width="35"/> | Photoshop |
+| <img src="https://skillicons.dev/icons?i=linux" width="35"/> | Linux |
+
+---
+
+# ☁️ Cloud & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify" />
 </p>
 
-## Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,vue,nodejs,flutter,bootstrap" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,figma,ps" />
-</p>
+Firebase • Supabase • Vercel • Netlify
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pathum830&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pathum830&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum830&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum830&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Pathum830&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pathum830&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pathum830&theme=algolia&no-frame=true&row=1&column=7"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathum830&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://portfolio-taupe-two-33.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/">
+<a href="YOUR_FACEBOOK_URL">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -193,14 +183,11 @@ Embedded System using
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> "Code. Learn. Build. Improve. Repeat."
+### ⭐ Thanks for visiting my profile!
 
----
+*"Code with passion. Learn continuously. Build for impact."*
 
-<p align="center">
-
-⭐️ From <a href="https://github.com/Pathum830">Pathum Siriwardhana</a>
-
-</p>
+</div>
+```
